@@ -15,7 +15,7 @@ public class ItemUpdateFactory {
             case "Sulfuras, Hand of Ragnaros":
                 itemUpdate= new SulfurasUpdate();
                 break;
-            case "Conjured":
+            case "Conjured Mana Cake":
                 itemUpdate= new ConjuredUpdate();
                 break;
             default:
