@@ -19,7 +19,7 @@ public class ItemUpdateFactory {
                 itemUpdate= new ConjuredUpdate();
                 break;
             default:
-                itemUpdate = new PrimaryItemUpdate();
+                itemUpdate = new PrimaryUpdate();
                 break;
         }
         return itemUpdate;

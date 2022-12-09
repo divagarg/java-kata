@@ -1,6 +1,6 @@
 package com.gildedrose;
 
-public class PrimaryItemUpdate implements ItemUpdateInterface {
+public class PrimaryUpdate implements ItemUpdateInterface {
 
     @Override
     public void updateItem(Item item) {
